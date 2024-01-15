@@ -7,10 +7,15 @@
 
 class createCharacter{
   public:
-    std::string name;
-    int age;
-    
+    std::string name = "HairyPotato 🥔";
+    int age = 20;
+    std::string hobbies = "Reading";
+
+    void welcome_message(){
+      std::cout << "There's nothing here at the moment. Projects will come up as I go!"
+    }
 }
+
 ```
 
 <h3 align="center">Always Learning :)</h3>
