@@ -2,6 +2,17 @@
   Welcome
 </h1>
 
+```c++
+#include <iostream>
+
+class createCharacter{
+  public:
+    std::string name;
+    int age;
+    
+}
+```
+
 <h3 align="center">Always Learning :)</h3>
 
 <h3 align="left">Languages and Tools:</h3>
