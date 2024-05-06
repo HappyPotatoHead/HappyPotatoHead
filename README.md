@@ -29,7 +29,7 @@ class createCharacter{
 <h3 align="left">Set ups:</h3>
 <p align="left">
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=godot,vscode,visualstudio,obsidian,figma" />
+    <img src = "https://skillicons.dev/icons?i=godot,vscode,visualstudio,obsidian,figma&perline=3" />
   </a>
 </p>
 <!--
