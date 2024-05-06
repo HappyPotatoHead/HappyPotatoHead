@@ -19,8 +19,6 @@ class createCharacter{
     }
 }
 ```
-
-<h3 align="center">Always Learning :)</h3>
 <!--Add your own svg later on-->
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -28,7 +26,7 @@ class createCharacter{
     <img src = "https://skillicons.dev/icons?i=js,html,css,py,mysql,cpp&perline=3"/>
   </a>
 </p>
-<h3 align="left">Tools:</h3>
+<h3 align="left">Set ups:</h3>
 <p align="left">
   <a href = "https://skillicons.dev">
     <img src = "https://skillicons.dev/icons?i=godot,vscode,visualstudio,obsidian,figma" />
@@ -43,6 +41,8 @@ class createCharacter{
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 -->
+
+<h3 align="center">Always Learning :)</h3>
 
 ### Statistics
 ![HairyPotato69's Stats](https://github-readme-stats.vercel.app/api?username=HairyPotato69&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
