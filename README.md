@@ -20,13 +20,19 @@ class createCharacter{
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=js,html,css,py,mysql,cpp&perline=3"/>
+    <img src = "https://skillicons.dev/icons?i=js,html,css,py,mysql,cpp&perline=4"/>
   </a>
 </p>
-<h3 align="left">Set ups:</h3>
+<h3 align="left">Tools:</h3>
 <p align="left">
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=godot,vscode,visualstudio,obsidian,figma,docker&perline=3" />
+    <img src = "https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,figma,docker,postgres,godot&perline=4" />
+  </a>
+</p>
+<h3 align="left">Libraries and Frameworks:</h3>
+<p align="left">
+  <a href = "https://skillicons.dev">
+    <img src = "https://skillicons.dev/icons?i=tailwind,bootstrap,flask,react,pytorch,opencv&perline=4"/>
   </a>
 </p>
 <!--
