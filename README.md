@@ -52,4 +52,4 @@ class createCharacter{
 </div>
 
 ### Statistics
-![HairyPotato69's Stats](https://github-readme-stats.vercel.app/api?username=HairyPotato69&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![HairyPotato69's Stats](https://github-readme-stats.vercel.app/api?username=HappyPotatoHead&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
