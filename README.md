@@ -4,18 +4,15 @@
 
 ### A bit about me
 ```c++
-#include <iostream>
-
 class createCharacter{
   private:
     std::string name{ "HairyPotato 🥔" };
-    int age{ 20 };
+    int age{ 21 };
     std::string hobbies{ "Reading" };
   public:
     void about_me(){
         std::cout << "Undergraduate student at Tunku Abdul Rahman University pursuing Computer Science."
                   << "Passionate about data analysis, machine learning, and developing impactful projects."
-                  << "Willing to learn anything and everything anytime"
     }
 }
 ```
@@ -29,7 +26,7 @@ class createCharacter{
 <h3 align="left">Set ups:</h3>
 <p align="left">
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=godot,vscode,visualstudio,obsidian,figma&perline=3" />
+    <img src = "https://skillicons.dev/icons?i=godot,vscode,visualstudio,obsidian,figma,docker&perline=3" />
   </a>
 </p>
 <!--
@@ -42,7 +39,11 @@ class createCharacter{
 </p>
 -->
 
-<h3 align="center">Always Learning :)</h3>
+<div align="center">
+  <q>
+    Just bumping into things along the way.
+  </q>
+</div>
 
 ### Statistics
 ![HairyPotato69's Stats](https://github-readme-stats.vercel.app/api?username=HairyPotato69&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
