@@ -11,12 +11,15 @@ class createCharacter{
     std::string hobbies{ "Reading" };
   public:
     void about_me(){
-        std::cout << "Computer Science Undergraduate"
+        std::cout << "Year 2 Computer Science Undergraduate"
                   << "Passionate about data science, data analysis, machine learning, and developing impactful projects."
+    }
+    void philosophy(){
+      std::cout << "Knowledge is not a reservoir to be hoarded but a river to be shared"
     }
 }
 ```
-<!--Add your own svg later on-->
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href = "https://skillicons.dev">
@@ -47,7 +50,9 @@ class createCharacter{
 
 <div align="center">
   <q>
-    Just bumping into things along the way.
+    <i>
+      Seldom ever was any knowledge given to keep, but to impart; the grace of this rich jewel is lost in concealment.
+    </<i>
   </q>
 </div>
 
