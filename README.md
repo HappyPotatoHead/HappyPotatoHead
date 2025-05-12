@@ -6,13 +6,13 @@
 ```c++
 class createCharacter{
   private:
-    std::string name{ "HairyPotato 🥔" };
+    std::string name{ "HappyPotatoHead🥔" };
     int age{ 21 };
     std::string hobbies{ "Reading" };
   public:
     void about_me(){
         std::cout << "Computer Science Undergraduate"
-                  << "Passionate about data analysis, machine learning, and developing impactful projects."
+                  << "Passionate about data science, data analysis, machine learning, and developing impactful projects."
     }
 }
 ```
@@ -32,7 +32,7 @@ class createCharacter{
 <h3 align="left">Libraries and Frameworks:</h3>
 <p align="left">
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=tailwind,bootstrap,flask,react,pytorch,opencv&perline=4"/>
+    <img src = "https://skillicons.dev/icons?i=tailwind,bootstrap,flask,react,pytorch,sklearn,opencv&perline=4"/>
   </a>
 </p>
 <!--
