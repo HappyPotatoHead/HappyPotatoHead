@@ -31,12 +31,13 @@ class createCharacter{
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react,vite,flask&perline=4)](https://skillicons.dev)
 
 ### Data Science
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,mysql&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,mysql,oracle&perline=4)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,figma,docker&perline=4)](https://skillicons.dev)
 
-          
+### Other Languages
+[![My Skills](https://skillicons.dev/icons?i=java,cpp&perline=4)](https://skillicons.dev)  
 <!--
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
