@@ -20,6 +20,8 @@ class createCharacter{
 }
 ```
 
+[Check out my garden](https://happypotatohead.github.io/project-garden/)
+
 # Technical Skills
 
 
@@ -45,15 +47,16 @@ class createCharacter{
 </p>
 -->
 
+
 <div align="center">
   <q>
     <i>
       Seldom ever was any knowledge given to keep, but to impart; the grace of this rich jewel is lost in concealment.
-    </<i>
+    </i>
   </q>
 </div>
 
-### Statistics
+# Statistics
 ![](https://komarev.com/ghpvc/?username=HappyPotatoHead&abbreviated=true&label=Profile+Views&style=flat&color=blue)
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=HappyPotatoHead&theme=dark)](https://git.io/streak-stats)
