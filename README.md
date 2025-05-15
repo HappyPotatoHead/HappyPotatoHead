@@ -20,7 +20,7 @@ class createCharacter{
 }
 ```
 
-[Check out my garden](https://happypotatohead.github.io/project-garden/)
+[Check out my complete portfolio!](https://happypotatohead.github.io/project-garden/)
 
 # Technical Skills
 
