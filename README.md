@@ -60,6 +60,6 @@ class createCharacter{
 # Statistics
 ![](https://komarev.com/ghpvc/?username=HappyPotatoHead&abbreviated=true&label=Profile+Views&style=flat&color=blue)
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=HappyPotatoHead&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=HappyPotatoHead&theme=dark)](https://git.io/streak-stats) -->
 
 ![HairyPotato69's Stats](https://github-readme-stats.vercel.app/api?username=HappyPotatoHead&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
