@@ -11,8 +11,9 @@ class createCharacter{
     std::string hobbies{ "Reading" };
   public:
     void about_me(){
-        std::cout << "Year 2 Computer Science Undergraduate"
+        std::cout << "Year 3 Computer Science Undergraduate"
                   << "Passionate about data science, data analysis, machine learning, and developing impactful projects."
+                  << "Why am I still here"
     }
     void philosophy(){
       std::cout << "Knowledge is not a reservoir to be hoarded but a river to be shared"
