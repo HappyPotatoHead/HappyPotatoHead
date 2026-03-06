@@ -7,7 +7,6 @@
 class createCharacter{
   private:
     std::string name{ "HappyPotatoHead🥔" };
-    int age{ 21 };
     std::string hobbies{ "Reading" };
   public:
     void about_me(){
