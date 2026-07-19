@@ -23,4 +23,4 @@ class createCharacter{
 [Basically a portfolio!](https://happypotatohead.github.io/projectgarden/)
 
 # Statistics
-![](https://komarev.com/ghpvc/?username=HappyPotatoHead&abbreviated=true&label=Profile+Views&style=flat&color=blue)
+![](https://komarev.com/ghpvc/?username=HappyPotatoHead&abbreviated=false&label=Profile+Views&style=flat&color=blue)
